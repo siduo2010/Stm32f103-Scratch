@@ -1,0 +1,16 @@
+..\output\bport_out.o: Bport_out.c
+..\output\bport_out.o: Bport_out.h
+..\output\bport_out.o: ..\CMSIS\stm32f10x.h
+..\output\bport_out.o: ..\CMSIS\core_cm3.h
+..\output\bport_out.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\bport_out.o: ..\CMSIS\system_stm32f10x.h
+..\output\bport_out.o: ..\USER\stm32f10x_conf.h
+..\output\bport_out.o: ..\FWlib\inc\stm32f10x_adc.h
+..\output\bport_out.o: ..\CMSIS\stm32f10x.h
+..\output\bport_out.o: ..\FWlib\inc\stm32f10x_dma.h
+..\output\bport_out.o: ..\FWlib\inc\stm32f10x_exti.h
+..\output\bport_out.o: ..\FWlib\inc\stm32f10x_gpio.h
+..\output\bport_out.o: ..\FWlib\inc\stm32f10x_rcc.h
+..\output\bport_out.o: ..\FWlib\inc\stm32f10x_tim.h
+..\output\bport_out.o: ..\FWlib\inc\stm32f10x_usart.h
+..\output\bport_out.o: ..\FWlib\inc\misc.h

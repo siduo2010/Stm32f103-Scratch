@@ -1,0 +1,17 @@
+..\output\pirmotion.o: Pirmotion.c
+..\output\pirmotion.o: Pirmotion.h
+..\output\pirmotion.o: ..\CMSIS\stm32f10x.h
+..\output\pirmotion.o: ..\CMSIS\core_cm3.h
+..\output\pirmotion.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\pirmotion.o: ..\CMSIS\system_stm32f10x.h
+..\output\pirmotion.o: ..\USER\stm32f10x_conf.h
+..\output\pirmotion.o: ..\FWlib\inc\stm32f10x_adc.h
+..\output\pirmotion.o: ..\CMSIS\stm32f10x.h
+..\output\pirmotion.o: ..\FWlib\inc\stm32f10x_dma.h
+..\output\pirmotion.o: ..\FWlib\inc\stm32f10x_exti.h
+..\output\pirmotion.o: ..\FWlib\inc\stm32f10x_gpio.h
+..\output\pirmotion.o: ..\FWlib\inc\stm32f10x_rcc.h
+..\output\pirmotion.o: ..\FWlib\inc\stm32f10x_tim.h
+..\output\pirmotion.o: ..\FWlib\inc\stm32f10x_usart.h
+..\output\pirmotion.o: ..\FWlib\inc\misc.h
+..\output\pirmotion.o: Bport_int.h
