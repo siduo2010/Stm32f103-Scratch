@@ -1,0 +1,16 @@
+..\output\sevseg.o: Sevseg.c
+..\output\sevseg.o: Sevseg.h
+..\output\sevseg.o: ..\CMSIS\stm32f10x.h
+..\output\sevseg.o: ..\CMSIS\core_cm3.h
+..\output\sevseg.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\sevseg.o: ..\CMSIS\system_stm32f10x.h
+..\output\sevseg.o: ..\USER\stm32f10x_conf.h
+..\output\sevseg.o: ..\FWlib\inc\stm32f10x_adc.h
+..\output\sevseg.o: ..\CMSIS\stm32f10x.h
+..\output\sevseg.o: ..\FWlib\inc\stm32f10x_dma.h
+..\output\sevseg.o: ..\FWlib\inc\stm32f10x_exti.h
+..\output\sevseg.o: ..\FWlib\inc\stm32f10x_gpio.h
+..\output\sevseg.o: ..\FWlib\inc\stm32f10x_rcc.h
+..\output\sevseg.o: ..\FWlib\inc\stm32f10x_tim.h
+..\output\sevseg.o: ..\FWlib\inc\stm32f10x_usart.h
+..\output\sevseg.o: ..\FWlib\inc\misc.h
